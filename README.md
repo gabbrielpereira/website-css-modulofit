@@ -3,4 +3,4 @@ HTML/CSS/FlexBox
 
 ## Website criado para uma academia fictícia "Módulo Fit"
 
-![ScreenShot](https://https://ibb.co/hLPD8V3)
+![Settings Window](https://github.com/gabbrielpereira/website-css-modulofit/blob/main/website-modulo-fit/imgs/print.jpg)
